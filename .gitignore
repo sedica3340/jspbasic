@@ -1,4 +1,4 @@
-tomcat.8181.*
+tomcat.*
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
